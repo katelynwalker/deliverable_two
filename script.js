@@ -1,13 +1,3 @@
-var question = "Pick a number, any number!";
-var answer = prompt(question);
-alert(answer);
-console.log(answer);
-
-var total=0;
-for (var num=0; num <= answer; num ++) {
-    total= total +num; 
-}
-console.log("The total is: " + total);
 //_______Exercise1___________________________
 
 var question = "Pick a number, any number!";
